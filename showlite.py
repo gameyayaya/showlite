@@ -7,7 +7,8 @@
         |_Table
             |__data
     '''
-    
+
+#20180110 git pull test
 import sqlite3 as lite
 
 #读取db path，顺便去掉"符号
